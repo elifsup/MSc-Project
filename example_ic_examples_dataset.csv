@@ -1,0 +1,3 @@
+clause,contract_type,representing,source,ground_truth_label,embedding
+clause1,terms and conditions,company,IA#1,potential issue,"[1, 2, 3, 4]"
+clause2,saas,licensee,IA#10,red flag,"[7, 3, 10, 4]"

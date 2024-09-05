@@ -1,0 +1,14 @@
+python-dotenv
+openai
+anthropic
+voyageai
+pandas
+scikit-learn
+matplotlib
+numpy
+seaborn
+tqdm
+replicate
+transformers
+unsloth
+torch
